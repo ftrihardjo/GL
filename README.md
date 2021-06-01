@@ -1,2 +1,2 @@
 # GL
-Simple general ledger for accounting software.
+Back end for simple general ledger software. Use postman to test it.
